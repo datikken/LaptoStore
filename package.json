@@ -1,0 +1,24 @@
+{
+  "name": "laptopApp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tikken/LaptoStore.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tikken/LaptoStore/issues"
+  },
+  "homepage": "https://github.com/tikken/LaptoStore#readme",
+  "dependencies": {
+    "nodemon": "^1.18.11"
+  }
+}
